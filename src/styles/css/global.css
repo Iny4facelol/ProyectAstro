@@ -16,9 +16,9 @@ body {
 }
 
 h1 {
+  margin: 1rem 0;
   color: purple;
   font-size: 4rem;
-  margin: 1rem 0;
 }
 
 /* nav styles */
